@@ -1,4 +1,5 @@
-https://github.com/JaideepYadav910/Water-the-plant-GAME/blob/master/sample.jpg
+
+![alt text](https://github.com/JaideepYadav910/Water-the-plant-GAME/blob/master/sample.jpg)
 
 # Water-the-plant-GAME
 # An game made using python's pygames and livewires modules.
