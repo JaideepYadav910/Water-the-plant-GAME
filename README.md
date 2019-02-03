@@ -4,6 +4,8 @@
 # Water-the-plant-GAME
 # An game made using python's pygames and livewires modules.
 
+![alt text](https://github.com/JaideepYadav910/Water-the-plant-GAME/blob/master/sample.jpg)
+
 
 from livewires import games, color
 import random
